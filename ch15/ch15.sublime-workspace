@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"putchar"
+			],
+			[
+				"extern",
+				"extern_variable"
+			],
+			[
+				"e",
+				"extern_variable"
+			],
+			[
+				"mo",
+				"monthName"
+			],
+			[
+				"mon",
+				"monthName"
+			],
+			[
+				"pr",
+				"printx"
+			],
+			[
+				"IS",
+				"IS_SPECIAL"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"d",
+				"Defining"
+			],
+			[
+				"poi",
+				"pointer_bit"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"b",
+				"bullet"
+			],
+			[
+				"bit",
+				"bit_size"
+			],
+			[
+				"int",
+				"int_size"
+			],
+			[
+				"bit_",
+				"bit_size_num"
+			],
+			[
+				"s",
+				"search"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"bi",
+				"bit_size_num"
+			],
+			[
+				"bit_s",
+				"bit_size_search"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"in",
+				"int_size"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"ma",
+				"max_bit"
+			],
+			[
+				"wor",
+				"word1"
+			],
+			[
+				"wo",
+				"word2"
+			],
+			[
+				"word",
+				"word1"
+			],
+			[
+				"mes",
+				"message2"
+			],
+			[
+				"me",
+				"message2"
+			],
+			[
+				"pt",
+				"ptrTomorrow"
+			],
+			[
+				"day",
+				"days"
+			],
+			[
+				"ptr",
+				"ptrTomorrow"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"date",
+				"dateUpdate"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"ar",
+				"arrayEnd"
+			],
+			[
+				"array",
+				"arrayEnd"
+			],
+			[
+				"ne",
+				"numbers"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"numb",
+				"number"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"pri",
+				"printList"
+			],
+			[
+				"n2",
+				"n2_3"
+			],
+			[
+				"list",
+				"list_pointer"
+			],
+			[
+				"pre",
+				"preceding"
+			],
+			[
+				"remo",
+				"removeEntry"
+			],
+			[
+				"fir",
+				"first_element"
+			],
+			[
+				"fi",
+				"first_element"
+			],
+			[
+				"fr",
+				"first_element"
+			],
+			[
+				"firt",
+				"first_element"
+			],
+			[
+				"p2",
+				"p2_3"
+			],
+			[
+				"arr",
+				"arraySum"
+			],
+			[
+				"lis",
+				"list_pointer"
+			],
+			[
+				"pint",
+				"pint2"
+			],
+			[
+				"str",
+				"strToInt"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"dic",
+				"dict_number"
+			],
+			[
+				"count",
+				"countEntry"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"find",
+				"findString"
+			],
+			[
+				"fin",
+				"finding"
+			],
+			[
+				"nwe",
+				"new_source"
+			],
+			[
+				"ins",
+				"insert_string"
+			],
+			[
+				"new",
+				"new_source"
+			],
+			[
+				"con",
+				"convertToArray"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"ol",
+				"old_index"
+			],
+			[
+				"rem",
+				"removed_string"
+			],
+			[
+				"lenghtOF",
+				"lenghtOfString"
+			],
+			[
+				"l",
+				"lenght_target_string"
+			],
+			[
+				"old",
+				"old_index"
+			],
+			[
+				"coun",
+				"count_original"
+			],
+			[
+				"len",
+				"lenghtOfString"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"al",
+				"alphabetic"
+			],
+			[
+				"ap",
+				"alpha"
+			],
+			[
+				"de",
+				"definition"
+			],
+			[
+				"lo",
+				"lookUp"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"eq",
+				"equalString"
+			],
+			[
+				"cou",
+				"countWords"
+			],
+			[
+				"a",
+				"alphan"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"dte",
+				"dateAndTime"
+			],
+			[
+				"time",
+				"timeUpdate"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"end",
+				"endOfMonth"
+			],
+			[
+				"h",
+				"hour"
+			],
+			[
+				"sec",
+				"second"
+			],
+			[
+				"N",
+				"N_function"
+			],
+			[
+				"is",
+				"isHourComplete"
+			],
+			[
+				"m",
+				"minute"
+			],
+			[
+				"t",
+				"tomorrow"
+			],
+			[
+				"td",
+				"today"
+			],
+			[
+				"gN",
+				"gNumberToConvert"
+			],
+			[
+				"g",
+				"gNumberToConvert"
+			],
+			[
+				"dis",
+				"displayArray"
+			],
+			[
+				"sum",
+				"sumArray"
+			],
+			[
+				"sq",
+				"sqroot"
+			],
+			[
+				"ep",
+				"eps"
+			],
+			[
+				"tr",
+				"triangular"
+			],
+			[
+				"bas",
+				"baseList"
+			],
+			[
+				"conv",
+				"convertedNumber"
+			],
+			[
+				"nub",
+				"number"
+			],
+			[
+				"min",
+				"minumum"
+			],
+			[
+				"mi",
+				"minValue"
+			],
+			[
+				"f",
+				"FibNums"
+			],
+			[
+				"F",
+				"Fibonacci"
+			],
+			[
+				"Fi",
+				"FibNums"
+			],
+			[
+				"res",
+				"responseCounter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "eof.c",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "etc.txt",
+			"settings":
+			{
+				"buffer_size": 69,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch15/scanf.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch15/untitled",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch15/printf.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch15/char_io.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch14/deneme.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch14/foo.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch14/main.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/readline.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch10/list_and_null_pointer.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch10/copy_string.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/lineWordCount.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/alert.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/dictionary2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/time_function.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/tomorrow_function.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex3_2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex6.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex4.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex6_2.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14d.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/sorting.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ch14.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex2.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex6.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex7.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex8.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14e.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex15.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14c.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/base_functions3.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex9.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14a.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14b.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex12.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/minimum.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/factorial.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/multi_dimensional_arrays.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_function2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex4.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex5.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex6.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex7.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex8.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ch7.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/programming_in_c.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tomorrow.day = 1;\n		if(d.month == 11)\n		{\n			tomorrow.month = 1;\n			tomorrow.year = d.year + 1\n		}\n		else\n		{\n			tomorrow.month = d.month + 1;\n		}\n	}\n	else\n		tomorrow.day = d.day + 1;",
+			"removed_string",
+			"new_string",
+			"/",
+			"]);",
+			"digit",
+			"numOfArray"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"inserted_string",
+			"removed_string",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "eof.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "etc.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								69,
+								69
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ch15.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

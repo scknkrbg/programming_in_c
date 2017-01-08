@@ -1,0 +1,970 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"printx"
+			],
+			[
+				"IS",
+				"IS_SPECIAL"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"d",
+				"Defining"
+			],
+			[
+				"poi",
+				"pointer_bit"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"b",
+				"bullet"
+			],
+			[
+				"bit",
+				"bit_size"
+			],
+			[
+				"int",
+				"int_size"
+			],
+			[
+				"bit_",
+				"bit_size_num"
+			],
+			[
+				"s",
+				"search"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"bi",
+				"bit_size_num"
+			],
+			[
+				"bit_s",
+				"bit_size_search"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"in",
+				"int_size"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ro",
+				"rotate"
+			],
+			[
+				"ma",
+				"max_bit"
+			],
+			[
+				"wor",
+				"word1"
+			],
+			[
+				"wo",
+				"word2"
+			],
+			[
+				"word",
+				"word1"
+			],
+			[
+				"mes",
+				"message2"
+			],
+			[
+				"me",
+				"message2"
+			],
+			[
+				"pt",
+				"ptrTomorrow"
+			],
+			[
+				"day",
+				"days"
+			],
+			[
+				"ptr",
+				"ptrTomorrow"
+			],
+			[
+				"to",
+				"today"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"date",
+				"dateUpdate"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"ar",
+				"arrayEnd"
+			],
+			[
+				"array",
+				"arrayEnd"
+			],
+			[
+				"ne",
+				"numbers"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"nu",
+				"number"
+			],
+			[
+				"numb",
+				"number"
+			],
+			[
+				"prin",
+				"printf	printf …"
+			],
+			[
+				"pri",
+				"printList"
+			],
+			[
+				"n2",
+				"n2_3"
+			],
+			[
+				"list",
+				"list_pointer"
+			],
+			[
+				"pre",
+				"preceding"
+			],
+			[
+				"remo",
+				"removeEntry"
+			],
+			[
+				"fir",
+				"first_element"
+			],
+			[
+				"fi",
+				"first_element"
+			],
+			[
+				"fr",
+				"first_element"
+			],
+			[
+				"firt",
+				"first_element"
+			],
+			[
+				"p2",
+				"p2_3"
+			],
+			[
+				"arr",
+				"arraySum"
+			],
+			[
+				"lis",
+				"list_pointer"
+			],
+			[
+				"pint",
+				"pint2"
+			],
+			[
+				"str",
+				"strToInt"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"dic",
+				"dict_number"
+			],
+			[
+				"count",
+				"countEntry"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"find",
+				"findString"
+			],
+			[
+				"fin",
+				"finding"
+			],
+			[
+				"nwe",
+				"new_source"
+			],
+			[
+				"ins",
+				"insert_string"
+			],
+			[
+				"new",
+				"new_source"
+			],
+			[
+				"con",
+				"convertToArray"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"ol",
+				"old_index"
+			],
+			[
+				"rem",
+				"removed_string"
+			],
+			[
+				"lenghtOF",
+				"lenghtOfString"
+			],
+			[
+				"l",
+				"lenght_target_string"
+			],
+			[
+				"old",
+				"old_index"
+			],
+			[
+				"coun",
+				"count_original"
+			],
+			[
+				"len",
+				"lenghtOfString"
+			],
+			[
+				"fo",
+				"found"
+			],
+			[
+				"al",
+				"alphabetic"
+			],
+			[
+				"ap",
+				"alpha"
+			],
+			[
+				"de",
+				"definition"
+			],
+			[
+				"lo",
+				"lookUp"
+			],
+			[
+				"e",
+				"equalString"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"eq",
+				"equalString"
+			],
+			[
+				"cou",
+				"countWords"
+			],
+			[
+				"a",
+				"alphan"
+			],
+			[
+				"cha",
+				"character"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"dte",
+				"dateAndTime"
+			],
+			[
+				"time",
+				"timeUpdate"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"end",
+				"endOfMonth"
+			],
+			[
+				"h",
+				"hour"
+			],
+			[
+				"sec",
+				"second"
+			],
+			[
+				"N",
+				"N_function"
+			],
+			[
+				"is",
+				"isHourComplete"
+			],
+			[
+				"m",
+				"minute"
+			],
+			[
+				"t",
+				"tomorrow"
+			],
+			[
+				"td",
+				"today"
+			],
+			[
+				"mo",
+				"month"
+			],
+			[
+				"gN",
+				"gNumberToConvert"
+			],
+			[
+				"g",
+				"gNumberToConvert"
+			],
+			[
+				"dis",
+				"displayArray"
+			],
+			[
+				"sum",
+				"sumArray"
+			],
+			[
+				"sq",
+				"sqroot"
+			],
+			[
+				"ep",
+				"eps"
+			],
+			[
+				"tr",
+				"triangular"
+			],
+			[
+				"bas",
+				"baseList"
+			],
+			[
+				"conv",
+				"convertedNumber"
+			],
+			[
+				"nub",
+				"number"
+			],
+			[
+				"min",
+				"minumum"
+			],
+			[
+				"mi",
+				"minValue"
+			],
+			[
+				"f",
+				"FibNums"
+			],
+			[
+				"F",
+				"Fibonacci"
+			],
+			[
+				"Fi",
+				"FibNums"
+			],
+			[
+				"res",
+				"responseCounter"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ex3.c",
+			"settings":
+			{
+				"buffer_size": 226,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex4.c",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex5.c",
+			"settings":
+			{
+				"buffer_size": 429,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex6.c",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*\n	IS_ALPHABETIC macro that returns nonzero IS_LOWER_CASE, IS_UPPER_CASE\n*/\n\n#include \"stdio.h\"\n\n#define IS_ALPHABETIC(c) ((IS_LOWER_CASE(c) || IS_UPPER_CASE(c)) ? 1 : 0)\n#define IS_LOWER_CASE(c) ((c) >= 'a' && (c) <= 'z' ? 1 : 0)\n#define IS_UPPER_CASE(c) ((c) >= 'A' && (c) <= 'Z' ? 1 : 0)\n\n\nint main(int argc, char const *argv[])\n{\n	printf(\"%i\\n\", IS_ALPHABETIC('a'));	\n	return 0;\n}\n\n\n\n",
+			"file": "ex7.c",
+			"file_size": 385,
+			"file_write_time": 131146483410000000,
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex8.c",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex9.c",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex10.c",
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/readline.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch10/list_and_null_pointer.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch10/copy_string.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/lineWordCount.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/alert.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch9/dictionary2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/time_function.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/tomorrow_function.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex3_2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex6.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex4.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex6_2.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14d.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/sorting.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ch14.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex2.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex6.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex7.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex8.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14e.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex15.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14c.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/base_functions3.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex9.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14a.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14b.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex12.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/minimum.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/factorial.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/multi_dimensional_arrays.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_function2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex4.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex5.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex6.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex7.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex8.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ch7.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/programming_in_c.sublime-project"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tomorrow.day = 1;\n		if(d.month == 11)\n		{\n			tomorrow.month = 1;\n			tomorrow.year = d.year + 1\n		}\n		else\n		{\n			tomorrow.month = d.month + 1;\n		}\n	}\n	else\n		tomorrow.day = d.day + 1;",
+			"removed_string",
+			"new_string",
+			"/",
+			"]);",
+			"digit",
+			"numOfArray"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"inserted_string",
+			"removed_string",
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ex3.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ex4.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ex5.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ex6.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ex7.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ex8.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								510,
+								510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "ex9.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ex10.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ch12.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

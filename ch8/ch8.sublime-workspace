@@ -1,0 +1,403 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tim",
+				"time"
+			],
+			[
+				"d",
+				"day"
+			],
+			[
+				"dte",
+				"dateAndTime"
+			],
+			[
+				"time",
+				"timeUpdate"
+			],
+			[
+				"date",
+				"dateUpdate"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"end",
+				"endOfMonth"
+			],
+			[
+				"re",
+				"redundant"
+			],
+			[
+				"da",
+				"dayOfWeek"
+			],
+			[
+				"int",
+				"int_result"
+			],
+			[
+				"in",
+				"int_result"
+			],
+			[
+				"to",
+				"to_seconds"
+			],
+			[
+				"h",
+				"hour"
+			],
+			[
+				"sec",
+				"second"
+			],
+			[
+				"day",
+				"day_difference"
+			],
+			[
+				"N",
+				"N_function"
+			],
+			[
+				"is",
+				"isHourComplete"
+			],
+			[
+				"m",
+				"minute"
+			],
+			[
+				"t",
+				"tomorrow"
+			],
+			[
+				"td",
+				"today"
+			],
+			[
+				"mo",
+				"month"
+			],
+			[
+				"gN",
+				"gNumberToConvert"
+			],
+			[
+				"g",
+				"gNumberToConvert"
+			],
+			[
+				"dis",
+				"displayArray"
+			],
+			[
+				"arr",
+				"array_2"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"sum",
+				"sumArray"
+			],
+			[
+				"numb",
+				"number_org"
+			],
+			[
+				"num",
+				"number_org"
+			],
+			[
+				"sq",
+				"sqroot"
+			],
+			[
+				"ep",
+				"eps"
+			],
+			[
+				"tr",
+				"triangular"
+			],
+			[
+				"bas",
+				"baseList"
+			],
+			[
+				"co",
+				"convertNumber"
+			],
+			[
+				"b",
+				"baseList"
+			],
+			[
+				"conv",
+				"convertedNumber"
+			],
+			[
+				"nub",
+				"number"
+			],
+			[
+				"s",
+				"scalarMultiply"
+			],
+			[
+				"n",
+				"nRows"
+			],
+			[
+				"min",
+				"minumum"
+			],
+			[
+				"mi",
+				"minValue"
+			],
+			[
+				"f",
+				"FibNums"
+			],
+			[
+				"F",
+				"Fibonacci"
+			],
+			[
+				"Fi",
+				"FibNums"
+			],
+			[
+				"res",
+				"responseCounter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/time_function.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/tomorrow_function.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex3_2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex6.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex4.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch8/ex6_2.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14d.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/sorting.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ch14.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex2.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex6.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex7.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex8.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14e.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex15.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14c.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/base_functions3.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex9.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14a.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex14b.c",
+		"/home/egimon/Masaüstü/Dropbox/Hot Prospects/Programming in C/ch7/ex12.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/minimum.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/factorial.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/multi_dimensional_arrays.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_function2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch7/base_functions3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex3.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex4.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex5.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex2.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex6.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex7.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ex8.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/ch6/ch7.c",
+		"/Users/seckin/Dropbox/Hot Prospects/Programming in C/programming_in_c.sublime-project"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/",
+			"]);",
+			"digit",
+			"numOfArray"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ch8.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
